@@ -15,7 +15,7 @@ Este script en Python monitoriza en tiempo real tus partidas de Valorant. Se con
 
 # ⚙️ Configuración y Uso
 1. Configurar la API Key
-Para que el script funcione, debes editar el archivo main.py (o como hayas nombrado al script) y buscar la línea donde se define la clave:
+Para que el script funcione, debes editar el archivo valorant-match-monitor y buscar la línea donde se define la clave:
 Busca esta línea y sustituye el valor por tu clave real
 ```HENRIK_API_KEY = "TU_API_KEY_AQUI"```
 2. Ejecución
