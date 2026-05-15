@@ -11,7 +11,7 @@ Este script en Python monitoriza en tiempo real tus partidas de Valorant. Se con
 1. Python 3
 2. Librerías necesarias urllib3
 ```pip install requests urllib3```
-3. HenrikDev API Key: Necesitas una clave de API (puedes obtener una en el Discord de HenrikDev)
+3. HenrikDev API Key: Necesitas una clave de API (puedes obtener una en [HenrikDev](https://docs.henrikdev.xyz/authentication-and-authorization))
 
 # ⚙️ Configuración y Uso
 1. Configurar la API Key
@@ -25,7 +25,7 @@ Busca esta línea y sustituye el valor por tu clave real
 
 # ⚠️ Aviso Legal y Seguridad
 Este proyecto se ha desarrollado con fines educativos y personales. Es importante destacar lo siguiente respecto a la seguridad de la cuenta:
-- Uso de Vanguard: El script no es motivo de baneo por el sistema antitrampas Vanguard.
+- Uso de Vanguard: El script no es motivo de baneo por el sistema [antitrampas Vanguard](https://support-leagueoflegends.riotgames.com/hc/es/articles/225266848-Aplicaciones-de-terceros).
 - Sin Modificaciones: A diferencia de los hacks o herramientas prohibidas, este script no edita, no modifica ni inyecta código en los archivos del juego ni en su memoria en tiempo real.
 - Lectura de archivos locales: Su funcionamiento se basa únicamente en leer el archivo lockfile, un archivo de texto temporal que el cliente de Riot genera automáticamente al iniciarse para permitir la comunicación entre sus propios módulos.
 - APIs Estándar: El script utiliza las mismas vías de comunicación que emplean aplicaciones de terceros populares (como trackers o gestores de inventario) para consultar estadísticas de forma externa.
